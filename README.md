@@ -17,22 +17,22 @@ mp3analyzer is a sleek ZIO HTTP server designed to analyze MP3 file headers and 
 
 1. **Clone the Repository:**
 
-```bash
-git clone https://github.com/your-username/mp3analyzer.git
-```
+    ```bash
+    git clone https://github.com/your-username/mp3analyzer.git
+    ```
 
 2. **Run the Server:**
 
-Navigate to the project directory and run:
+    Navigate to the project directory and run:
 
-```bash
-
-sbt run
-```
+    ```bash
+    
+    sbt run
+    ```
 
 3. **Analyze Your MP3:**
 
-Send a request to the server with your MP3 file. Use your preferred tool to make a request to `localhost:8000/analyze`.
+    Send a request to the server with your MP3 file. Use your preferred tool to make a request to `localhost:8000/analyze`.
 
 ## Endpoint 📍
 
@@ -49,12 +49,5 @@ Contributions are what make the open-source community such an amazing place to l
     Commit your Changes (git commit -m 'Add some AmazingFeature')
     Push to the Branch (git push origin feature/AmazingFeature)
     Open a Pull Request
-
-## License 📜
-
-Distributed under the MIT License. See LICENSE for more information.
-## Contact 📫
-Niklas von Minckwitz
-
-Project Link: https://github.com/Husky22/mp3analyzer
+    
 
